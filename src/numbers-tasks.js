@@ -627,7 +627,7 @@ function getRandomInteger(min, max) {
 }
 
 /**
- * Returns the length of the hypotenuse of a right triangle.
+ * Returns the length of the hypotenuse of a right trianle.
  *
  * @param {number} a
  * @param {number} b
